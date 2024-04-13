@@ -1,3 +1,7 @@
+// This provided code will run on Leetcode but to run on any code editor, Provide a main function creating a matrix and call the
+//  'maximalRectangle()' method by providing the matrix as a parameter. It will execute. 
+
+
 class Solution {
 public:
 
