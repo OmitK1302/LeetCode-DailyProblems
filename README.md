@@ -13,6 +13,7 @@
 | [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0061-rotate-list) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
 |  |
 | ------- |
@@ -37,3 +39,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0061-rotate-list) |
+# String
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
