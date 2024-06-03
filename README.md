@@ -14,6 +14,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0061-rotate-list) |
+| [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Dynamic Programming
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0061-rotate-list) |
+| [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
 # String
 |  |
 | ------- |
