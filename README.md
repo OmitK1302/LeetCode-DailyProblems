@@ -12,6 +12,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0061-rotate-list) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -32,3 +33,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0056-merge-intervals) |
+# Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0061-rotate-list) |
