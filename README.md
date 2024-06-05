@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0056-merge-intervals) |
+| [1044-find-common-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1044-find-common-characters) |
 # Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,9 @@
 # String
 |  |
 | ------- |
+| [1044-find-common-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Hash Table
+|  |
+| ------- |
+| [1044-find-common-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1044-find-common-characters) |
