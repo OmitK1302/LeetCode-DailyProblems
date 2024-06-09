@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0056-merge-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1044-find-common-characters) |
 # Two Pointers
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1044-find-common-characters) |
 # Math
 |  |
@@ -67,3 +69,4 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1016-subarray-sums-divisible-by-k) |
