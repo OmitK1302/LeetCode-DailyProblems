@@ -26,6 +26,7 @@
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 # Monotonic Stack
 |  |
@@ -49,6 +50,7 @@
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0151-reverse-words-in-a-string) |
 | [1044-find-common-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
