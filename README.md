@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0056-merge-intervals) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0502-ipo](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -18,6 +19,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
