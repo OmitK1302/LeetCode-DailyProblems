@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0056-merge-intervals) |
+| [0502-ipo](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1044-find-common-characters) |
@@ -37,11 +38,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
+| [0502-ipo](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0502-ipo) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0056-merge-intervals) |
+| [0502-ipo](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0502-ipo) |
 # Linked List
 |  |
 | ------- |
@@ -70,3 +73,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1016-subarray-sums-divisible-by-k) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0502-ipo) |
