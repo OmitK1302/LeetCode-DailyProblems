@@ -108,6 +108,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -117,6 +118,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
