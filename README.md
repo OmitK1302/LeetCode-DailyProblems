@@ -110,6 +110,7 @@
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -161,8 +163,17 @@
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
