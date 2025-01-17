@@ -143,6 +143,7 @@
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2792-neighboring-bitwise-xor) |
 ## Math
 |  |
@@ -180,5 +181,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2792-neighboring-bitwise-xor) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
