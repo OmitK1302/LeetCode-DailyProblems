@@ -144,6 +144,7 @@
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0219-contains-duplicate-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -177,6 +178,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0219-contains-duplicate-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
