@@ -178,6 +178,7 @@
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0137-single-number-ii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 ## Prefix Sum
 |  |
 | ------- |
