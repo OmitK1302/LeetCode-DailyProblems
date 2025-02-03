@@ -188,6 +188,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3429-special-array-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Math
