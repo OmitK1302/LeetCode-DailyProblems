@@ -194,6 +194,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Math
 |  |
@@ -201,6 +202,7 @@
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Union Find
 |  |
 | ------- |
