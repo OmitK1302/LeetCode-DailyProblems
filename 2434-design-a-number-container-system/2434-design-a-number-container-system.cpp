@@ -27,7 +27,6 @@ private:
     unordered_map<int, std::set<int>> numberMap;
 };
 
-
 /**
  * Your NumberContainers object will be instantiated and called as such:
  * NumberContainers* obj = new NumberContainers();
