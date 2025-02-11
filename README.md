@@ -220,6 +220,7 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3447-clear-digits) |
@@ -230,6 +231,7 @@
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3447-clear-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
