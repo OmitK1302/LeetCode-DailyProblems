@@ -213,6 +213,7 @@
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
@@ -314,6 +315,7 @@
 | [0078-subsets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
