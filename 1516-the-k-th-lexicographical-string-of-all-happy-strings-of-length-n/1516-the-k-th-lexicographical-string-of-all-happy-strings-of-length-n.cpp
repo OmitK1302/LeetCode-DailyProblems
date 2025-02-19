@@ -16,10 +16,13 @@ public:
             }
         }
     }
+
     string getHappyString(int n, int k) {
+        int numOfStrings = 3 * pow(2, n-1);
+        if(numOfStrings < k) return "";
         string currStr;
         findStrings(0, currStr, n);
 
-        return (k > res.size()) ? "" : res[k-1];
+        return res[k-1];
     }
 };
