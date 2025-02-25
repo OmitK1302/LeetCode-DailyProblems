@@ -191,6 +191,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1876-map-of-highest-peak) |
@@ -217,6 +218,7 @@
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
@@ -347,6 +349,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Union Find
@@ -380,6 +383,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Data Stream
 |  |
 | ------- |
