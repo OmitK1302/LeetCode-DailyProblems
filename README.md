@@ -178,6 +178,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0137-single-number-ii) |
@@ -383,6 +384,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Data Stream
 |  |
@@ -403,5 +405,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
