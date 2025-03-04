@@ -230,6 +230,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
