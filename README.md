@@ -271,6 +271,7 @@
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1170-shortest-common-supersequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
@@ -296,6 +297,7 @@
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2434-design-a-number-container-system) |
@@ -356,6 +358,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0219-contains-duplicate-ii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3483-alternating-groups-ii) |
 ## Backtracking
