@@ -270,6 +270,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0205-isomorphic-strings) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -460,4 +461,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2610-closest-prime-numbers-in-range) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
