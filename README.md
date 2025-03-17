@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0242-valid-anagram) |
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
@@ -272,6 +273,7 @@
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0242-valid-anagram) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
@@ -299,6 +301,7 @@
 | [0205-isomorphic-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0242-valid-anagram) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
