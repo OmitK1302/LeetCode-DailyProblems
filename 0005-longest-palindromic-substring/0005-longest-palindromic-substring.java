@@ -1,4 +1,22 @@
 public class Solution {
+    // public String longestPalindrome(String s) {
+    //     string ans = "";
+    //     int resLen = 0;
+    //     for(int i = 0; i < s.length(); i++){
+    //         int left = i;
+    //         int right = i;
+
+    //         while(left >= 0 && right < s.length() && s[left] == s[right]){
+    //             if(right - left + 1 > resLen){
+    //                 resLen = right - left + 1;
+    //                 ans = s.substr()
+    //             }
+    //             left--;
+    //             right++;
+    //         }
+    //     }
+    // }
+
     public String longestPalindrome(String s) {
         if (s.length() <= 1) {
             return s;
