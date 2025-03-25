@@ -182,6 +182,7 @@
 | [0031-next-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0074-search-a-2d-matrix) |
@@ -235,6 +236,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
@@ -361,6 +363,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
