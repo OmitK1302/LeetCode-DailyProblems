@@ -3,10 +3,11 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& a) 
     {
         vector<vector<int>>ans;
-        int n=a.size();
+        int n = a.size();
         if(n==0)
-        return ans;
+            return ans;
         sort(a.begin(),a.end());
+        // return a;
         ans.push_back(a[0]);
         int i,j=0;
         for(i=1;i<n;i++)
