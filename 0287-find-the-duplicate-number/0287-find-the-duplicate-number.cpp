@@ -1,10 +1,11 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        vector<int>freq(nums.size() - 1);
+        // O(n) solution with extra space
+        vector<bool>freq(nums.size() - 1, false);
         for(int& num : nums){
-            if(freq[num - 1] == 1) return num;
-            freq[num - 1] = 1;
+            if(freq[num - 1]) return num;
+            freq[num - 1] = true;
         }
 
         return -1;
