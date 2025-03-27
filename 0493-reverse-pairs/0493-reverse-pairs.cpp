@@ -13,15 +13,9 @@ public:
         int next = mid + 1;
         for(int i = l; i <= mid; i++){
 
-            while(next <= r) {
-                long long val = 2L*nums[next];
-                if(nums[i] > val) {
-                    currVal++;
-                    next++;
-                } 
-                else{
-                    break;
-                }
+            while(next <= r && (long long)nums[i] > 2L*nums[next]) {
+                currVal++;
+                next++;
             }
             res += currVal;
 
