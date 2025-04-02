@@ -442,6 +442,7 @@
 ## Design
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0838-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2434-design-a-number-container-system) |
@@ -513,4 +514,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
