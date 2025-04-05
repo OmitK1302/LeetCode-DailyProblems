@@ -219,6 +219,7 @@
 | [1876-map-of-highest-peak](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
@@ -254,6 +255,7 @@
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -367,6 +369,7 @@
 | [0287-find-the-duplicate-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -411,6 +414,7 @@
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -533,4 +537,12 @@
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
