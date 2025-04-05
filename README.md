@@ -267,6 +267,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -534,6 +535,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
