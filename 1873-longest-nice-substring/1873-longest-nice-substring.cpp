@@ -22,7 +22,7 @@ public:
             // unordered_map<char, int>charMap;
             // int count = 0;
             // int currMax = 0;
-            for(int j = 0 + 1 ; j < s.length(); j++) {
+            for(int j = 0; j < s.length()-i; j++) {
                 string substr = s.substr(i, j+1);
                 if(isNice(substr) && substr.length() > res.length()) {
                     res = substr;
