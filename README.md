@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0101-symmetric-tree) |
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0101-symmetric-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
@@ -525,6 +527,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0101-symmetric-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -532,6 +535,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0101-symmetric-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
