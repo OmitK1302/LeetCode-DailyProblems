@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<vector<int>>>dp;
-    int helper(vector<vector<int>>& grid, int i1, int j1, int i2, int j2) {
+    int helper(vector<vector<int>>& grid, int i1, int j1, int j2) {
         int m = grid.size();
         int n = grid[0].size();
 
@@ -22,13 +22,13 @@ public:
             currVal = grid[i1][j1];
         }
         else{
-            currVal = grid[i1][j1] + grid[i2][j2];
+            currVal = grid[i1][j1] + grid[i1][j2];
         }
 
         int maxVal = 0;
         for(int k1 = -1; k1 <= 1; k1++) {
             for(int k2 = -1; k2 <= 1; k2++) {
-                maxVal = max(maxVal, helper(grid, i1 + 1, j1 + k1, i2 + 1, j2 + k2));
+                maxVal = max(maxVal, helper(grid, i1 + 1, j1 + k1, j2 + k2));
             }
         }
 
@@ -49,6 +49,6 @@ public:
         int m = grid.size();
         int n = grid[0].size();
         dp.resize(m, vector<vector<int>>(n, vector<int>(n, -1)));
-        return helper(grid, 0, 0, 0, n-1);
+        return helper(grid, 0, 0, n-1);
     }
 };
