@@ -210,6 +210,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
@@ -515,6 +516,7 @@
 | [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0120-triangle) |
+| [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0650-2-keys-keyboard) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
