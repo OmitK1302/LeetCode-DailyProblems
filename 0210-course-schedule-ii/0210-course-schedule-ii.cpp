@@ -1,38 +1,5 @@
 class Solution {
 public:
-    // void dfs(int node, vector<vector<int>>& adj, stack<int>& st, vector<bool>& visited) {
-    //     visited[node] = true;
-        
-    //     for(int& curr : adj[node]) {
-    //         if(!visited[curr]) {
-    //             dfs(curr, adj, st, visited);
-    //         }
-    //     }
-
-    //     st.push(node);
-    // }
-
-    // vector<int>topoSort(vector<vector<int>>& adj) {
-    //     stack<int>st;
-    //     int n = adj.size();
-    //     vector<bool> visited(n, false);
-
-    //     for(int i = 0; i < n; i++) {
-    //         if(!visited[i]) {
-    //             dfs(i, adj, st, visited);
-    //         }
-    //     }
-
-    //     vector<int>res;
-    //     while(!st.empty()) {
-    //         res.push_back(st.top());
-    //         st.pop();
-    //     }
-
-    //     return res;
-    // }
-
-
     vector<int> topoSort(vector<vector<int>>& adj) {
         int n = adj.size();
         vector<int>indeg(n);
@@ -72,9 +39,6 @@ public:
             return {};
         }
         return res;
-
-
-
     }
 
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
