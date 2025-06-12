@@ -6,13 +6,13 @@ public:
 
         for(int& coin : coins) {
             for(int i = 0; i <= amount; i++) {
-                // if(i + coin <= amount) {
-                    if(i - coin >= 0) {
-                        dp[i] += dp[i - coin];
+                if(i + coin <= amount) {
+                    // if(i - coin >= 0) {
+                        // dp[i] += dp[i - coin];
+                    // } 
+                    dp[i + coin] += dp[i];
 
-                    } 
-                    // dp[i + coin] += 1;
-                // }
+                }
             }
         }
 
