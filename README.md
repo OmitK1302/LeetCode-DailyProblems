@@ -319,6 +319,7 @@
 | [0205-isomorphic-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
@@ -526,6 +527,7 @@
 | [0120-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0650-2-keys-keyboard) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
