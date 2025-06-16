@@ -345,6 +345,7 @@
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3447-clear-digits) |
 ## Hash Table
@@ -518,6 +519,7 @@
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -603,6 +605,7 @@
 | [0838-design-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2196-reverse-nodes-in-even-length-groups) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
