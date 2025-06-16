@@ -597,6 +597,7 @@
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Combinatorics
 |  |
 | ------- |
