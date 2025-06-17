@@ -317,6 +317,7 @@
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0451-sort-characters-by-frequency) |
@@ -528,6 +529,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
