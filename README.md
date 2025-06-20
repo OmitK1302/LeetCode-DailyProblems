@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0044-wildcard-matching) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -209,6 +210,7 @@
 | [0088-merge-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0217-contains-duplicate) |
@@ -536,6 +538,7 @@
 | [0115-distinct-subsequences](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0516-longest-palindromic-subsequence) |
