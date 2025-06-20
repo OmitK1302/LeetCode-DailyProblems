@@ -19,6 +19,17 @@ public:
         return dp[curr][currStock] = max(skip, max(buy, sell));
     }
 
+    int profitHelper2(vector<int>& prices) {
+        int totalPrice = 0;
+        for(int i = 1; i < prices.size(); i++) {
+            if(prices[i] > prices[i-1]) {
+                totalPrice += prices[i] - prices[i-1];
+            }
+        }
+
+        return totalPrice;
+    }
+
 
 
 
@@ -46,7 +57,9 @@ public:
     //     return dp[currInd][currStock];
     // }
     int maxProfit(vector<int>& prices) {
-        dp.resize(prices.size(), vector<int>(2, -1));
-        return profitHelper(prices, 0, 0);
+        // dp.resize(prices.size(), vector<int>(2, -1));
+        // return profitHelper(prices, 0, 0);
+
+        return profitHelper2(prices);
     }
 };
