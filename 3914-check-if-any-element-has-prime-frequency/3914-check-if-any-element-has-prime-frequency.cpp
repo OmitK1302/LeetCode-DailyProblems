@@ -2,13 +2,14 @@ class Solution {
 public:
     bool isPrime(int num) {
         int cnt = 0;
-        for(int i = 1; i <= num; i++) {
+        if(num == 0 || num == 1) return false;
+        for(int i = 2; i <= num / 2; i++) {
             if(num % i == 0) {
-                cnt++;
+                return false;
             }
         }
 
-        return cnt == 2;
+        return true;;
     }
     bool checkPrimeFrequency(vector<int>& nums) {
         unordered_map<int, int>mp;
