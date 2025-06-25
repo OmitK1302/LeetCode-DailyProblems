@@ -112,6 +112,7 @@
 | [0045-jump-game-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -229,6 +230,7 @@
 | [0120-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0137-single-number-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
