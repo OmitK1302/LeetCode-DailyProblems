@@ -1,37 +1,48 @@
 class Solution {
 public:
-    vector<vector<int>>dp;
-    bool solve(int i, int j, string& s) {
-        if(i >= j) {
-            return true;
-        }
-
-        if(dp[i][j] != -1) return dp[i][j];
-
-        if(s[i] == s[j]) {
-            bool curr = solve(i + 1, j - 1, s);
-            dp[i][j] = curr ? 1 : 0;
-            return curr;
-        }
-        dp[i][j] = 0;
-        return false;
-    }
-
     string longestPalindrome(string s) {
-        int n = s.length();
-        dp.resize(n, vector<int>(n, -1));
+        // Step 1: Preprocess the string
+        string t = "^#";
+        for (char c : s) {
+            t += c;
+            t += '#';
+        }
+        t += '$'; // end sentinel
 
-        int maxLen = 1;
-        int sp = 0;
-        for(int i = 0; i < n; i++) {
-            for(int j = i + 1; j < n; j++) {
-                if(j - i + 1 > maxLen && solve(i, j, s)) {
-                    maxLen = j - i + 1;
-                    sp = i;
-                }
+        int n = t.size();
+        vector<int> P(n, 0);
+        int center = 0, right = 0;
+
+        // Step 2: Manacher's main loop
+        for (int i = 1; i < n - 1; ++i) {
+            int mirror = 2 * center - i;
+
+            if (i < right)
+                P[i] = min(right - i, P[mirror]);
+
+            // Expand around center i
+            while (t[i + (1 + P[i])] == t[i - (1 + P[i])])
+                ++P[i];
+
+            // Update center and right boundary
+            if (i + P[i] > right) {
+                center = i;
+                right = i + P[i];
             }
         }
 
-        return s.substr(sp, maxLen);
+        // Step 3: Find the max length and its center
+        int maxLen = 0, centerIndex = 0;
+        for (int i = 1; i < n - 1; ++i) {
+            if (P[i] > maxLen) {
+                maxLen = P[i];
+                centerIndex = i;
+            }
+        }
+
+        // Step 4: Extract the result from original string
+        int start = (centerIndex - maxLen) / 2; // remove '#' and '^'
+        return s.substr(start, maxLen);
     }
+
 };
