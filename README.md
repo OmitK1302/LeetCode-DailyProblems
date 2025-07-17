@@ -195,6 +195,7 @@
 | [0130-surrounded-regions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
@@ -256,6 +257,7 @@
 | [0494-target-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -478,6 +480,7 @@
 | [0130-surrounded-regions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
@@ -606,6 +609,7 @@
 | [0494-target-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
