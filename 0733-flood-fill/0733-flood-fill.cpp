@@ -31,6 +31,7 @@ public:
 
                     if(_i >= 0 && _i < image.size() && _j >= 0 && _j < image[0].size() && image[_i][_j] == orig) {
                         que.push({_i, _j});
+                        
                     }
                 }
             }
