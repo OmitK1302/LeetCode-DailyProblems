@@ -319,6 +319,7 @@
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
+| [0326-power-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0650-2-keys-keyboard](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
@@ -341,6 +342,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
