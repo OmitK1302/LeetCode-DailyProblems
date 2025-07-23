@@ -287,6 +287,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1755-defuse-the-bomb) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -504,6 +505,7 @@
 | [1396-count-servers-that-communicate](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1559-cherry-pickup-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1559-cherry-pickup-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
