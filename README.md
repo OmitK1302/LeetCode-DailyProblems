@@ -235,6 +235,7 @@
 | [0078-subsets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -416,6 +417,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -645,6 +647,7 @@
 | [0100-same-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -656,6 +659,7 @@
 | [0100-same-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -667,6 +671,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0493-reverse-pairs) |
