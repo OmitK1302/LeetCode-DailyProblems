@@ -40,7 +40,8 @@ public:
         }
         
         int n = nodes.size();
-        int mid = (l + r) / 2;
+        // int mid = (l + r) / 2;
+        int mid = (l+r) % 2 ?  (l + r) / 2 + 1 : (l + r) / 2;
         TreeNode* root = new TreeNode(nodes[mid]);
         root -> left = findRes(nodes, l, mid - 1);
         root -> right = findRes(nodes, mid + 1, r);
