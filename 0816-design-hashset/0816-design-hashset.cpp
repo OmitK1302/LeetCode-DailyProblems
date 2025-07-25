@@ -1,18 +1,18 @@
 class MyHashSet {
 public:
     // unordered_map<int, int>map;
-    vector<int>map;
+    vector<bool>map;
     int sz = 1e6 + 1;
     MyHashSet() {
-        map.resize(sz, 0);
+        map.resize(sz, false);
     }
     
     void add(int key) {
-        map[key] = 1;
+        map[key] = true;
     }
     
     void remove(int key) {
-        map[key] = 0;
+        map[key] = false;
     }
     
     bool contains(int key) {
