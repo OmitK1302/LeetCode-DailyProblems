@@ -2,29 +2,21 @@ class MyHashSet {
 public:
     // unordered_map<int, int>map;
     vector<int>map;
+    int sz = 1e6 + 1;
     MyHashSet() {
-        
+        map.resize(sz, 0);
     }
     
     void add(int key) {
-        map.push_back(key);
+        map[key] = 1;
     }
     
     void remove(int key) {
-        for(int i = 0; i < map.size(); i++) {
-            if(map[i] == key) {
-                map[i] = -1;
-            }
-        }
+        map[key] = 0;
     }
     
     bool contains(int key) {
-        for(int i = 0; i < map.size(); i++) {
-            if(map[i] == key) {
-                return true;
-            }
-        }
-        return false;
+        return map[key];
     }
 };
 
