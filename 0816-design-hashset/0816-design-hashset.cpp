@@ -1,20 +1,30 @@
 class MyHashSet {
 public:
-    unordered_map<int, int>map;
+    // unordered_map<int, int>map;
+    vector<int>map;
     MyHashSet() {
         
     }
     
     void add(int key) {
-        map[key] = 1;
+        map.push_back(key);
     }
     
     void remove(int key) {
-        map.erase(key);
+        for(int i = 0; i < map.size(); i++) {
+            if(map[i] == key) {
+                map[i] = -1;
+            }
+        }
     }
     
     bool contains(int key) {
-        return map.count(key);
+        for(int i = 0; i < map.size(); i++) {
+            if(map[i] == key) {
+                return true;
+            }
+        }
+        return false;
     }
 };
 
