@@ -330,6 +330,7 @@
 | [3430-count-days-without-meetings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -471,6 +472,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
@@ -767,6 +769,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics
 |  |
 | ------- |
