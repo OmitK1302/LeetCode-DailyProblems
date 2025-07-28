@@ -238,6 +238,7 @@
 | [0031-next-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
@@ -444,6 +445,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -522,6 +524,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0130-surrounded-regions) |
@@ -561,6 +564,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
