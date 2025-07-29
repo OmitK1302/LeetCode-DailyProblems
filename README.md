@@ -183,6 +183,7 @@
 | [0130-surrounded-regions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0733-flood-fill) |
@@ -700,6 +701,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -717,6 +719,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0450-delete-node-in-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -802,6 +805,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0450-delete-node-in-a-bst) |
 ## Monotonic Stack
 |  |
