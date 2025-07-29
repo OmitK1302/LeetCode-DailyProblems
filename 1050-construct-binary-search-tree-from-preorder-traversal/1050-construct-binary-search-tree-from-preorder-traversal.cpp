@@ -13,21 +13,23 @@ class Solution {
 public:
     TreeNode* addVal(int node, TreeNode* root) {
         if(root -> val > node) {
-            if(root -> left) {
-                root -> left = addVal(node, root -> left);
-            }
-            else{
-                root -> left = new TreeNode(node);
-            }
+            root -> left = (root -> left) ? addVal(node, root -> left) : new TreeNode(node);
+            // if(root -> left) {
+            //     root -> left = addVal(node, root -> left);
+            // }
+            // else{
+            //     root -> left = new TreeNode(node);
+            // }
         }
         else{
-            if(root -> right) {
-                root -> right = addVal(node, root -> right);
+            root -> right = (root -> right) ? addVal(node, root -> right) : new TreeNode(node);
+            // if(root -> right) {
+            //     root -> right = addVal(node, root -> right);
                 
-            }
-            else{
-                root -> right = new TreeNode(node);
-            }
+            // }
+            // else{
+            //     root -> right = new TreeNode(node);
+            // }
         }
 
         return root;
