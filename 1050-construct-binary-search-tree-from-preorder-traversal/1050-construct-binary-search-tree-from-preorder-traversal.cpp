@@ -11,26 +11,55 @@
  */
 class Solution {
 public:
-    TreeNode* construct(vector<int>& preorder, int& indx, int l, int r, unordered_map<int, int>& map) {
-        if(l > r) return nullptr;
-        TreeNode* root = new TreeNode(preorder[indx++]);
-        int mid = map[root -> val];
-        root -> left = construct(preorder, indx, l, mid-1, map);
-        root -> right = construct(preorder, indx, mid + 1, r, map);
+    TreeNode* addVal(int node, TreeNode* root) {
+        if(root -> val > node) {
+            if(root -> left) {
+                root -> left = addVal(node, root -> left);
+            }
+            else{
+                root -> left = new TreeNode(node);
+            }
+        }
+        else{
+            if(root -> right) {
+                root -> right = addVal(node, root -> right);
+                
+            }
+            else{
+                root -> right = new TreeNode(node);
+            }
+        }
 
         return root;
     }
+    // TreeNode* construct(vector<int>& preorder, int& indx, int l, int r, unordered_map<int, int>& map) {
+    //     if(l > r) return nullptr;
+    //     TreeNode* root = new TreeNode(preorder[indx++]);
+    //     int mid = map[root -> val];
+    //     root -> left = construct(preorder, indx, l, mid-1, map);
+    //     root -> right = construct(preorder, indx, mid + 1, r, map);
+
+    //     return root;
+    // }
 
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int>inorder = preorder;
-        sort(inorder.begin(), inorder.end());
+        // vector<int>inorder = preorder;
+        // sort(inorder.begin(), inorder.end());
 
-        unordered_map<int, int>mp;
-        for(int i = 0; i < inorder.size(); i++) {
-            mp[inorder[i]] = i;
+        // unordered_map<int, int>mp;
+        // for(int i = 0; i < inorder.size(); i++) {
+        //     mp[inorder[i]] = i;
+        // }
+
+        // int indx = 0;
+        // return construct(preorder, indx, 0, inorder.size() - 1, mp);
+
+        if(preorder.size() == 0) return nullptr;
+        TreeNode* root = new TreeNode(preorder[0]);
+        for(int i = 1; i < preorder.size(); i++) {
+            root = addVal(preorder[i], root);
         }
 
-        int indx = 0;
-        return construct(preorder, indx, 0, inorder.size() - 1, mp);
+        return root;
     }
 };
