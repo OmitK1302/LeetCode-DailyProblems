@@ -245,6 +245,7 @@
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0074-search-a-2d-matrix) |
@@ -387,6 +388,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -543,6 +545,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
