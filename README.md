@@ -324,6 +324,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2047-find-a-peak-element-ii) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -442,6 +443,7 @@
 | [1873-longest-nice-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
