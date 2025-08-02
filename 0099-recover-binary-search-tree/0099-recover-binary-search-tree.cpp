@@ -38,13 +38,13 @@ public:
         vector<int>in;
         inOrder(root, in);
 
-        vector<int>vals;
-        // if(in[0] > in[1]) {
-        //     vals.push_back(in[0]);
-        // }
-        // if(in[in.size() - 1] < in[in.size() - 2]) {
-        //     vals.push_back(in[in.size() - 1]);
-        // }
+        vector<int>vals(2, -1);
+        if(in[0] > in[1]) {
+            vals[0] = 0;
+        }
+        if(in[in.size() - 1] < in[in.size() - 2]) {
+            vals[1] = in.size() - 1;
+        }
         // for(int i = 1; i < in.size() - 1; i++) {
         //     if(in[i] < in[i-1] && in[i] < in[i+1]) {
         //         vals.push_back(in[i]);
@@ -54,15 +54,39 @@ public:
         //     }
         // }
 
-        vector<int>temp = in;
-        sort(temp.begin(), temp.end());
-        for(int i = 0; i < in.size(); i++) {
-            if(temp[i] != in[i]) {
-                vals.push_back(in[i]);
+        if(vals[0] == -1) {
+            for(int i = 1; i < in.size() - 1; i++) {
+                if(in[i] > in[i+1] && in[i] > in[i-1]) {
+                    vals[0] = i;
+                    // vals.push_back(in[i]);
+                    break;
+                }
             }
         }
-        TreeNode* n1 = findNode(root, vals[0]);
-        TreeNode* n2 = findNode(root, vals[1]);
+
+        if(vals[1] == -1) {
+            for(int i = in.size() - 2; i >= 1; i--) {
+                if(in[i] < in[i+1] && in[i] < in[i-1]) {
+                    vals[1] = i;
+                    // vals.push_back(in[i]);
+                    break;
+                }
+            }
+        }
+
+
+        // vector<int>temp = in;
+        // sort(temp.begin(), temp.end());
+        // for(int i = 0; i < in.size(); i++) {
+        //     if(temp[i] != in[i]) {
+        //         vals.push_back(in[i]);
+        //     }
+        // }
+
+
+
+        TreeNode* n1 = findNode(root, in[vals[0]]);
+        TreeNode* n2 = findNode(root, in[vals[1]]);
 
         // n1 -> val;
         // cout<<n2 -> val<<" "<<vals[1];
@@ -72,11 +96,11 @@ public:
         // }
 
 
-        cout<<vals[1]<<" "<<vals[0];
+        cout<<in[vals[1]]<<" "<<in[vals[0]];
 
         // n1 -> val = n2 -> val;
 
-        n1 -> val = vals[1];
-        n2 -> val = vals[0];
+        n1 -> val = in[vals[1]];
+        n2 -> val = in[vals[0]];
     }
 };
