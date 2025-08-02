@@ -440,6 +440,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1873-longest-nice-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1873-longest-nice-substring) |
+| [1894-merge-strings-alternately](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -677,6 +678,7 @@
 | [0287-find-the-duplicate-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2271-rearrange-array-elements-by-sign) |
