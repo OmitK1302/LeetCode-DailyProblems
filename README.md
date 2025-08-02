@@ -122,6 +122,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2689-rearranging-fruits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Graph
@@ -156,6 +157,7 @@
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2689-rearranging-fruits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3430-count-days-without-meetings) |
@@ -335,6 +337,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -496,6 +499,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
