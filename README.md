@@ -328,6 +328,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -595,6 +596,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1873-longest-nice-substring) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3483-alternating-groups-ii) |
 ## Backtracking
@@ -624,6 +626,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Union Find
 |  |
@@ -653,6 +656,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2047-find-a-peak-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2060-merge-bsts-to-create-single-bst) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
