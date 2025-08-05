@@ -319,6 +319,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1559-cherry-pickup-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1559-cherry-pickup-ii) |
 | [1580-shuffle-the-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1580-shuffle-the-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
@@ -615,6 +616,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1873-longest-nice-substring) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -757,6 +759,7 @@
 | [1250-longest-common-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1559-cherry-pickup-ii) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Data Stream
