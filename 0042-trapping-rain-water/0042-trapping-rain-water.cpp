@@ -8,7 +8,7 @@ public:
             maxL = max(maxL, height[start]);
             maxR = max(maxR, height[end]);
 
-            res += (maxL < maxR) ? (maxL) - height[start++] : maxR - height[end--];
+            res += (maxL < maxR) ? maxL - height[start++] : maxR - height[end--];
         }
 
         return res;

@@ -248,6 +248,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
@@ -467,6 +468,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
@@ -702,6 +704,7 @@
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0141-linked-list-cycle) |
@@ -724,6 +727,7 @@
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
@@ -894,6 +898,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
