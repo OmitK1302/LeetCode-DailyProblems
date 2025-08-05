@@ -304,6 +304,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1032-satisfiability-of-equality-equations](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1032-satisfiability-of-equality-equations) |
+| [1034-subarrays-with-k-different-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -503,6 +504,7 @@
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -531,6 +533,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [1034-subarrays-with-k-different-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1396-count-servers-that-communicate) |
@@ -606,6 +609,7 @@
 | [0219-contains-duplicate-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1755-defuse-the-bomb) |
