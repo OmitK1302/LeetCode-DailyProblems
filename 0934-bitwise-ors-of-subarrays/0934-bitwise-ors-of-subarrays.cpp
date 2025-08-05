@@ -13,7 +13,7 @@ public:
             for(auto& curr : prev) {
                 next.insert(curr | num);
                 res.insert(curr | num);
-                next.insert(curr | num);
+                // next.insert(curr | num);
             }
 
             prev = next;
@@ -22,3 +22,12 @@ public:
         return res.size();
     }
 };
+
+
+
+/*
+1 1 2
+
+
+
+*/
