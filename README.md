@@ -567,6 +567,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1873-longest-nice-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
