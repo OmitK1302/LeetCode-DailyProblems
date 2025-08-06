@@ -156,6 +156,7 @@
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2689-rearranging-fruits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2689-rearranging-fruits) |
@@ -343,6 +344,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
@@ -685,6 +687,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
@@ -728,6 +731,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
