@@ -371,6 +371,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -616,6 +617,7 @@
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Shortest Path
 |  |
@@ -784,6 +786,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Data Stream
 |  |
 | ------- |
