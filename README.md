@@ -216,6 +216,7 @@
 | [0101-symmetric-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -444,6 +445,7 @@
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -502,6 +504,7 @@
 | [0076-minimum-window-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
