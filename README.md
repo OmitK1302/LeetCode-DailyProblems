@@ -114,6 +114,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0890-lemonade-change) |
@@ -294,6 +295,7 @@
 | [0542-01-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0733-flood-fill) |
