@@ -388,6 +388,7 @@
 | [0650-2-keys-keyboard](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0650-2-keys-keyboard) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
+| [0826-soup-servings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0826-soup-servings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -775,6 +776,7 @@
 | [0650-2-keys-keyboard](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0826-soup-servings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0826-soup-servings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
@@ -939,4 +941,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0812-rotate-string) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
