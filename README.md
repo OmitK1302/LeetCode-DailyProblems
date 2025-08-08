@@ -132,6 +132,7 @@
 | [0210-course-schedule-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0820-find-eventual-safe-states) |
 | [1032-satisfiability-of-equality-equations](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -197,6 +198,7 @@
 | [0695-max-area-of-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -228,6 +230,7 @@
 | [0695-max-area-of-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1073-number-of-enclaves) |
@@ -244,6 +247,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
