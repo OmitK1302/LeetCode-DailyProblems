@@ -305,6 +305,7 @@
 | [0605-can-place-flowers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0733-flood-fill) |
 | [0816-design-hashset](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0816-design-hashset) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
@@ -668,6 +669,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0878-shifting-letters) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
