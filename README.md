@@ -388,6 +388,7 @@
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0650-2-keys-keyboard](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0650-2-keys-keyboard) |
@@ -413,6 +414,7 @@
 | [0010-regular-expression-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
@@ -576,6 +578,7 @@
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0338-counting-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
