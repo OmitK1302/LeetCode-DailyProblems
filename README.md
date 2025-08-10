@@ -155,6 +155,7 @@
 | [0455-assign-cookies](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
@@ -396,6 +397,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
 | [0826-soup-servings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0900-reordered-power-of-2) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -528,6 +530,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0816-design-hashset) |
+| [0900-reordered-power-of-2](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -562,6 +565,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1364-tuple-with-same-product) |
@@ -922,6 +926,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bucket Sort
 |  |
