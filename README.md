@@ -810,6 +810,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Data Stream
 |  |
