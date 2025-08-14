@@ -126,6 +126,7 @@
 | [2689-rearranging-fruits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3954-maximum-balanced-shipments](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3954-maximum-balanced-shipments) |
 ## Graph
 |  |
 | ------- |
@@ -389,6 +390,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
+| [3954-maximum-balanced-shipments](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3954-maximum-balanced-shipments) |
 ## Math
 |  |
 | ------- |
@@ -512,6 +514,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3447-clear-digits) |
+| [3954-maximum-balanced-shipments](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3954-maximum-balanced-shipments) |
 ## Hash Table
 |  |
 | ------- |
@@ -812,6 +815,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3954-maximum-balanced-shipments](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3954-maximum-balanced-shipments) |
 ## Data Stream
 |  |
 | ------- |
@@ -957,6 +961,7 @@
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3954-maximum-balanced-shipments](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3954-maximum-balanced-shipments) |
 ## Hash Function
 |  |
 | ------- |
