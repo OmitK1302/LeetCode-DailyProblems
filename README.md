@@ -301,6 +301,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0494-target-sum) |
@@ -511,6 +512,7 @@
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
@@ -729,6 +731,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0327-count-of-range-sum) |
+| [0456-132-pattern](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0493-reverse-pairs) |
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -754,6 +757,7 @@
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0327-count-of-range-sum) |
+| [0456-132-pattern](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0493-reverse-pairs) |
 | [2434-design-a-number-container-system](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
@@ -967,6 +971,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
