@@ -496,6 +496,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
