@@ -475,6 +475,7 @@
 | [0014-longest-common-prefix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0076-minimum-window-substring) |
