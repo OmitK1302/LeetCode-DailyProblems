@@ -148,6 +148,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0056-merge-intervals) |
@@ -263,6 +264,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -773,6 +775,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
