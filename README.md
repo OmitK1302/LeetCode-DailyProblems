@@ -402,6 +402,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
@@ -470,6 +471,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -536,6 +538,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
