@@ -118,6 +118,7 @@
 | [0678-valid-parenthesis-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2032-largest-odd-number-in-string) |
@@ -413,6 +414,7 @@
 | [0826-soup-servings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0900-reordered-power-of-2) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1448-maximum-69-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
