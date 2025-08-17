@@ -410,6 +410,7 @@
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0326-power-of-three) |
@@ -820,6 +821,7 @@
 | [0045-jump-game-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0120-triangle) |
@@ -860,6 +862,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0101-symmetric-tree) |
@@ -884,6 +887,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0101-symmetric-tree) |
@@ -986,6 +990,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
