@@ -141,6 +141,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -678,6 +679,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0744-network-delay-time) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Sliding Window
 |  |
@@ -848,6 +850,7 @@
 | [1170-shortest-common-supersequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
