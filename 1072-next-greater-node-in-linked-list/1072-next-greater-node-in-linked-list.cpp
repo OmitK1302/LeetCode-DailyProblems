@@ -12,7 +12,6 @@
 //  #include<bits/stdc++.h>
 class Solution {
 public:
-    // int len = 0;
     ListNode* llReverse(ListNode* head) {
         ListNode* ptr = head;
         ListNode* prev = nullptr;
@@ -28,8 +27,6 @@ public:
     }
     vector<int> nextLargerNodes(ListNode* head) {
         head = llReverse(head);
-        
-        // cout<<head -> val;
 
 
         stack<int>st;
@@ -37,10 +34,8 @@ public:
         vector<int>res;
         while(ptr) {
             while(!st.empty() && st.top() <= ptr -> val) {
-                cout<<st.top()<<" ";
                 st.pop();
             }
-            cout<<endl;
 
             if(st.empty()) {
                 res.push_back(0);
