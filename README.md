@@ -421,6 +421,7 @@
 | [0231-power-of-two](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0342-power-of-four) |
+| [0382-linked-list-random-node](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0382-linked-list-random-node) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0650-2-keys-keyboard](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0650-2-keys-keyboard) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -982,6 +983,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0355-design-twitter) |
+| [0382-linked-list-random-node](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0382-linked-list-random-node) |
 | [0816-design-hashset](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0908-middle-of-the-linked-list) |
@@ -1036,4 +1038,12 @@
 | ------- |
 | [0826-soup-servings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0867-new-21-game) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
