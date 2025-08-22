@@ -15,7 +15,9 @@ public:
             }
         }
 
-        cout<<strtCol<<" "<<strtRow;
-        return (mxCol * mxRow) - (strtCol * mxRow) - (strtRow * mxCol) + (strtCol * strtRow);
+        int height = mxRow - strtRow;
+        int width = mxCol - strtCol;
+
+        return height * width;
     }
 };
