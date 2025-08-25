@@ -281,6 +281,7 @@
 | [0039-combination-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0053-maximum-subarray) |
@@ -731,6 +732,7 @@
 | [0022-generate-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0216-combination-sum-iii) |
