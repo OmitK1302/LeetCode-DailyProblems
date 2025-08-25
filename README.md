@@ -418,6 +418,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
@@ -472,6 +473,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0898-transpose-matrix) |
@@ -498,6 +500,7 @@
 | [0022-generate-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0076-minimum-window-substring) |
