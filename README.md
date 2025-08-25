@@ -319,6 +319,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0542-01-matrix) |
@@ -472,6 +473,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0898-transpose-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -671,6 +673,7 @@
 | [0130-surrounded-regions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0733-flood-fill) |
