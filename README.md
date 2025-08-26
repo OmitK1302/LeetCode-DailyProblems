@@ -399,6 +399,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3429-special-array-i) |
