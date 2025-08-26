@@ -421,6 +421,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0048-rotate-image) |
