@@ -139,6 +139,7 @@
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0820-find-eventual-safe-states) |
 | [1032-satisfiability-of-equality-equations](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1032-satisfiability-of-equality-equations) |
+| [1300-critical-connections-in-a-network](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1300-critical-connections-in-a-network) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -216,6 +217,7 @@
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1300-critical-connections-in-a-network](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1396-count-servers-that-communicate) |
@@ -1070,4 +1072,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0239-sliding-window-maximum) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
