@@ -113,6 +113,7 @@
 | [0055-jump-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
@@ -317,6 +318,7 @@
 | [0307-range-sum-query-mutable](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0327-count-of-range-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0327-count-of-range-sum) |
+| [0334-increasing-triplet-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0455-assign-cookies) |
