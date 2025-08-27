@@ -417,6 +417,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
@@ -707,6 +708,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Shortest Path
 |  |
 | ------- |
@@ -897,6 +899,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3954-maximum-balanced-shipments](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3954-maximum-balanced-shipments) |
 ## Data Stream
 |  |
@@ -1083,4 +1086,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1300-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
