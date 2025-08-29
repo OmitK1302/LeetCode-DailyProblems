@@ -464,6 +464,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Recursion
