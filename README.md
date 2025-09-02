@@ -570,6 +570,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
@@ -823,6 +824,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0355-design-twitter) |
