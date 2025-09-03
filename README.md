@@ -178,6 +178,7 @@
 | [2689-rearranging-fruits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3748-sort-matrix-by-diagonals) |
@@ -413,6 +414,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -470,6 +472,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1053,6 +1056,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Bucket Sort
@@ -1117,5 +1121,6 @@
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
