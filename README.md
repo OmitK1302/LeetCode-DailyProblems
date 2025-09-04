@@ -544,6 +544,7 @@
 | [0812-rotate-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0878-shifting-letters) |
 | [1032-satisfiability-of-equality-equations](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1032-satisfiability-of-equality-equations) |
+| [1078-remove-outermost-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1170-shortest-common-supersequence) |
@@ -583,6 +584,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1072-next-greater-node-in-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
