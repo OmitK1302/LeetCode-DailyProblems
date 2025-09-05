@@ -1,9 +1,8 @@
-#include <string>
-#include <algorithm>
+
 
 class Solution {
 public:
-    int longestValidParentheses(std::string s) {
+    int longestValidParentheses(string s) {
         int left = 0, right = 0;
         int maxLen = 0;
 
@@ -16,7 +15,7 @@ public:
             }
 
             if (left == right) {
-                maxLen = std::max(maxLen, 2 * right);
+                maxLen = max(maxLen, 2 * right);
             } 
             else if (right > left) {
                 left = 0;
@@ -35,7 +34,7 @@ public:
             }
 
             if (left == right) {
-                maxLen = std::max(maxLen, 2 * left);
+                maxLen = max(maxLen, 2 * left);
             } 
             else if (left > right) {
                 left = 0;
