@@ -542,6 +542,7 @@
 | [0443-string-compression](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0678-valid-parenthesis-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0812-rotate-string) |
@@ -617,6 +618,7 @@
 | [0242-valid-anagram](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -843,6 +845,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0355-design-twitter) |
+| [0535-encode-and-decode-tinyurl](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0838-design-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1098,6 +1101,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0816-design-hashset) |
 ## String Matching
 |  |
