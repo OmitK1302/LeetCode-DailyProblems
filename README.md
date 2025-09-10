@@ -482,6 +482,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3830-find-closest-person](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
