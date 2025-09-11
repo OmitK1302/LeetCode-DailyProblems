@@ -177,6 +177,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2689-rearranging-fruits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2689-rearranging-fruits) |
+| [2887-sort-vowels-in-a-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -580,6 +581,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2887-sort-vowels-in-a-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3447-clear-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
