@@ -320,6 +320,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0209-minimum-size-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0219-contains-duplicate-ii) |
@@ -769,6 +770,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
@@ -807,6 +809,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0878-shifting-letters) |
@@ -839,6 +842,7 @@
 | [0069-sqrtx](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0327-count-of-range-sum) |
