@@ -456,6 +456,7 @@
 | [0096-unique-binary-search-trees](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0371-sum-of-two-integers) |
@@ -720,6 +721,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1173,5 +1175,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
