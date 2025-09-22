@@ -424,6 +424,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2792-neighboring-bitwise-xor](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -673,6 +674,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -693,6 +695,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
