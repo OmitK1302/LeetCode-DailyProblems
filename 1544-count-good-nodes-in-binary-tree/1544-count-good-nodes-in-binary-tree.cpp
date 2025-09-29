@@ -16,8 +16,9 @@ public:
         if(!root) return;
 
         if(root -> val >= maxVal) res++;
-        helper(root -> left, max(maxVal, root -> val));
-        helper(root -> right, max(maxVal, root -> val));
+        int currMax = max(maxVal, root -> val);
+        helper(root -> left, currMax);
+        helper(root -> right, currMax);
     }
     int goodNodes(TreeNode* root) {
         helper(root, INT_MIN);
