@@ -238,6 +238,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1558-course-schedule-iv) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -273,6 +274,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1876-map-of-highest-peak) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -1010,6 +1012,7 @@
 | [1254-deepest-leaves-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
@@ -1037,6 +1040,7 @@
 | [1254-deepest-leaves-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2060-merge-bsts-to-create-single-bst) |
 ## Divide and Conquer
 |  |
