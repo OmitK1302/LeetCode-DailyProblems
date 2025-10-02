@@ -7,17 +7,6 @@ public:
             numBottles -= (numExchange - 1);
             res += numExchange;
             numExchange++;
-
-
-            // numBottles--;
-            // res++;
-            // empty++;
-
-            // if(empty == numExchange) {
-            //     numBottles++;
-            //     numExchange++;
-            //     empty = 0;
-            // }
         }
 
         return res + numBottles;
