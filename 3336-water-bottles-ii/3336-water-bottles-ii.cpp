@@ -3,18 +3,23 @@ public:
     int maxBottlesDrunk(int numBottles, int numExchange) {
         int empty = 0;
         int res = 0;
-        while(numBottles) {
-            numBottles--;
-            res++;
-            empty++;
+        while(numBottles >= numExchange) {
+            numBottles -= (numExchange - 1);
+            res += numExchange;
+            numExchange++;
 
-            if(empty == numExchange) {
-                numBottles++;
-                numExchange++;
-                empty = 0;
-            }
+
+            // numBottles--;
+            // res++;
+            // empty++;
+
+            // if(empty == numExchange) {
+            //     numBottles++;
+            //     numExchange++;
+            //     empty = 0;
+            // }
         }
 
-        return res;
+        return res + numBottles;
     }
 };
