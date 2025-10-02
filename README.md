@@ -114,6 +114,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0605-can-place-flowers) |
@@ -726,6 +727,7 @@
 | [0338-counting-bits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0397-integer-replacement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
@@ -965,6 +967,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0516-longest-palindromic-subsequence) |
@@ -1203,6 +1206,7 @@
 | ------- |
 | [0139-word-break](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0397-integer-replacement) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Geometry
 |  |
