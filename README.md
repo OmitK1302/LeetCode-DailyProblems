@@ -139,6 +139,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
@@ -220,6 +221,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0669-trim-a-binary-search-tree) |
@@ -257,6 +259,7 @@
 | [0210-course-schedule-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0301-remove-invalid-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0547-number-of-provinces) |
@@ -285,6 +288,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1558-course-schedule-iv) |
@@ -339,6 +343,7 @@
 | [0307-range-sum-query-mutable](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0327-count-of-range-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0327-count-of-range-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
@@ -757,6 +762,7 @@
 | [0130-surrounded-regions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0542-01-matrix) |
@@ -957,6 +963,7 @@
 | [0139-word-break](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0494-target-sum) |
@@ -1195,6 +1202,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Geometry
 |  |
