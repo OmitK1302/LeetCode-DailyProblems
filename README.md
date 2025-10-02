@@ -484,6 +484,7 @@
 | [0826-soup-servings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0900-reordered-power-of-2) |
+| [1013-fibonacci-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1013-fibonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1448-maximum-69-number) |
@@ -521,6 +522,7 @@
 | [0326-power-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
@@ -982,6 +984,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
+| [1013-fibonacci-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1207,6 +1210,7 @@
 | [0139-word-break](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0397-integer-replacement) |
+| [1013-fibonacci-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1013-fibonacci-number) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Geometry
 |  |
