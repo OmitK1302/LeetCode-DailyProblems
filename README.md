@@ -108,6 +108,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0055-jump-game) |
@@ -298,6 +299,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0031-next-permutation) |
@@ -920,6 +922,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0031-next-permutation) |
