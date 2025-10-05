@@ -418,6 +418,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
+| [2181-smallest-index-with-equal-value](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2181-smallest-index-with-equal-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2271-rearrange-array-elements-by-sign) |
