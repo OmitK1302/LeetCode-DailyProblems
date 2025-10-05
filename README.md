@@ -575,6 +575,7 @@
 | [0076-minimum-window-substring](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0242-valid-anagram) |
@@ -970,6 +971,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
