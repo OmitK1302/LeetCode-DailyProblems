@@ -401,6 +401,7 @@
 | [1559-cherry-pickup-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1559-cherry-pickup-ii) |
 | [1580-shuffle-the-array](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1635-number-of-good-pairs) |
@@ -894,6 +895,7 @@
 | [0907-koko-eating-bananas](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2060-merge-bsts-to-create-single-bst) |
