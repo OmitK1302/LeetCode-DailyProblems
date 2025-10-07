@@ -667,6 +667,7 @@
 | [0139-word-break](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0217-contains-duplicate) |
@@ -915,6 +916,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0307-range-sum-query-mutable) |
@@ -1147,6 +1149,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0206-reverse-linked-list) |
@@ -1253,4 +1256,8 @@
 | ------- |
 | [0292-nim-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0292-nim-game) |
 | [3462-vowels-game-in-a-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3462-vowels-game-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
