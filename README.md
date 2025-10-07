@@ -233,6 +233,7 @@
 | [0744-network-delay-time](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0820-find-eventual-safe-states) |
+| [0832-binary-tree-pruning](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1041,6 +1042,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0669-trim-a-binary-search-tree) |
+| [0832-binary-tree-pruning](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0832-binary-tree-pruning) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -1071,6 +1073,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0669-trim-a-binary-search-tree) |
+| [0832-binary-tree-pruning](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0832-binary-tree-pruning) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
