@@ -176,6 +176,7 @@
 | [0611-valid-triangle-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2379-maximum-total-importance-of-roads](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2379-maximum-total-importance-of-roads) |
@@ -235,6 +236,7 @@
 | [0820-find-eventual-safe-states](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0820-find-eventual-safe-states) |
 | [0832-binary-tree-pruning](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0832-binary-tree-pruning) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1254-deepest-leaves-sum) |
@@ -274,6 +276,7 @@
 | [0801-is-graph-bipartite](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0854-making-a-large-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1254-deepest-leaves-sum) |
@@ -681,6 +684,7 @@
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0940-fruit-into-baskets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1044,6 +1048,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0832-binary-tree-pruning) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1254-deepest-leaves-sum) |
@@ -1075,6 +1080,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0669-trim-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0832-binary-tree-pruning) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1254-deepest-leaves-sum) |
