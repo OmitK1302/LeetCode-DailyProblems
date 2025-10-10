@@ -454,6 +454,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -872,6 +873,7 @@
 | [2145-grid-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
