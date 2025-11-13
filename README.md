@@ -491,6 +491,7 @@
 | [0096-unique-binary-search-trees](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0342-power-of-four) |
@@ -597,6 +598,7 @@
 | [0179-largest-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0402-remove-k-digits) |
@@ -859,6 +861,7 @@
 | [0078-subsets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0800-letter-case-permutation) |
