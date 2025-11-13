@@ -654,6 +654,7 @@
 | [0456-132-pattern](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0678-valid-parenthesis-string) |
+| [0937-online-stock-span](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1072-next-greater-node-in-linked-list) |
@@ -941,6 +942,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1512-design-underground-system](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1512-design-underground-system) |
@@ -1045,6 +1047,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Tree
 |  |
@@ -1219,6 +1222,7 @@
 | [0402-remove-k-digits](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1072-next-greater-node-in-linked-list) |
