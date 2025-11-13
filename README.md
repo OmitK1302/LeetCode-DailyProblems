@@ -391,6 +391,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0943-sum-of-subarray-minimums) |
+| [0947-online-election](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0947-online-election) |
 | [0967-minimum-falling-path-sum](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0967-minimum-falling-path-sum) |
 | [1032-satisfiability-of-equality-equations](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -702,6 +703,7 @@
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0940-fruit-into-baskets) |
+| [0947-online-election](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0947-online-election) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1160-letter-tile-possibilities) |
@@ -923,6 +925,7 @@
 | [0611-valid-triangle-number](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0924-fair-candy-swap) |
+| [0947-online-election](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0947-online-election) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -946,6 +949,7 @@
 | [0816-design-hashset](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0838-design-linked-list) |
 | [0937-online-stock-span](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0937-online-stock-span) |
+| [0947-online-election](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/0947-online-election) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1512-design-underground-system](https://github.com/OmitK1302/LeetCode-DailyProblems/tree/master/1512-design-underground-system) |
